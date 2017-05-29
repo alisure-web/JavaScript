@@ -23,6 +23,5 @@ JavaScript 编程相关
         单全局变量
 
     asynchronous_module_definition.js:
-        AMD规范：require.js
-        (amd_math.js为加载的模块)
-
+        需要安装，使用这个命令安装require.js：npm install requirejs
+        AMD规范：require.js (amd_math.js为加载的模块)
