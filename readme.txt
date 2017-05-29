@@ -25,3 +25,16 @@ JavaScript 编程相关
     asynchronous_module_definition.js:
         需要安装，使用这个命令安装require.js：npm install requirejs
         AMD规范：require.js (amd_math.js为加载的模块)
+
+    event_handle.js：
+        事件处理相关的
+
+    check_type.js:
+        检测原始值: typeof - number、string、boolean、undefined
+        检测引用值: instanceof - Object、Array、Date、Error、RegExg
+        检测函数: typeof - Function
+        检测数组: Array.isArray() - Array
+        检测属性: hasOwnProperty or in
+
+    config_data.js
+        抽离配置数据
