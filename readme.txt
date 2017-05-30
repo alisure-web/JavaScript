@@ -36,5 +36,9 @@ JavaScript 编程相关
         检测数组: Array.isArray() - Array
         检测属性: hasOwnProperty or in
 
-    config_data.js
+    config_data.js：
         抽离配置数据
+
+2017-05-30
+    file_directory.js：
+        项目的文件和目录的组织方式
