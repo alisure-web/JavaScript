@@ -42,3 +42,8 @@ JavaScript 编程相关
 2017-05-30
     file_directory.js：
         项目的文件和目录的组织方式
+
+2017-06-02
+    logistic.js:
+        逻辑运算和短路求值
+
