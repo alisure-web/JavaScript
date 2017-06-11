@@ -47,3 +47,15 @@ JavaScript 编程相关
     logistic.js:
         逻辑运算和短路求值
 
+2017-06-11
+
+    配置babel,参见：https://github.com/alisure-web/babel
+
+    设置File Watcher进行自动运行npm run build(详见图片Watcher.png)
+
+    运行：
+        1.在命令行中：babel-node src2/module/module.js
+        2.在node中：直接运行dist/module/module.js
+
+    src2/module/module.js
+        import 和 export 的几种使用方式。
