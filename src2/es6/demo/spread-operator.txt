@@ -1,0 +1,12 @@
+
+    展开运算符（spread operator）允许一个表达式在某处展开。
+展开运算符在多个参数（用于函数调用）或多个元素（用于数组字
+面量）或者多个变量（用于解构赋值）的地方可以使用。
+
+    展开运算符不能用在对象当中，因为目前展开运算符只能在可
+遍历对象（iterables）可用。
+
+    iterables的实现是依靠[Symbol.iterator]函数，而目前只有
+Array,Set,String内置[Symbol.iterator]方法，而Object尚未内置
+该方法，因此无法使用展开运算符。
+

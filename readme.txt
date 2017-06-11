@@ -59,3 +59,16 @@ JavaScript 编程相关
 
     src2/module/module.js
         import 和 export 的几种使用方式。
+
+
+2017-06-11
+    es6特性学习（src2/es6）
+
+    src2/es6/demo/spread-operator.js:
+        展开运算符。
+        对象展开运算符插件：
+            npm install babel-plugin-transform-object-rest-spread
+            .babelrc:
+                "plugins": ["transform-object-rest-spread"]
+
+
