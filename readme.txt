@@ -71,4 +71,6 @@ JavaScript 编程相关
             .babelrc:
                 "plugins": ["transform-object-rest-spread"]
 
+    src2/es6/demo/destructuring-assignment.js:
+        解构赋值
 
