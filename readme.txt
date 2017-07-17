@@ -74,3 +74,6 @@ JavaScript 编程相关
     src2/es6/demo/destructuring-assignment.js:
         解构赋值
 
+2017-07-17
+    函数式编程（src/functional）
+

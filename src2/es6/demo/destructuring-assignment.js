@@ -13,10 +13,10 @@ console.log(q); // true
 function test(o) {
     console.log(o.p);
 }
-test(o);
+test(o); // 42
 
 /* 参数解构 */
 function test2({p}) {
     console.log(p);
 }
-test(o);
+test(o); // 42
